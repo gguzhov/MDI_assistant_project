@@ -1,0 +1,1 @@
+print('Margo loves Diana')
