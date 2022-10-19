@@ -1,11 +1,10 @@
-<<<<<<< HEAD
-~/code mkdir google-sheets
-~/ code cd google-sheets
-~/ 
-=======
+<<<<<<<<< Temporary merge branch 1
 a = 'Диана любит Марго'
 print(a)
 b = 'Наш проект по телеграмм боту'
 print(b)
->>>>>>> dce922cbf7fced73b34a49e63c2620b2d044cf9a
-,sgfkjbfs,jndflks
+=========
+~/code mkdir google-sheets
+~/ code cd google-sheets
+~/ 
+>>>>>>>>> Temporary merge branch 2
