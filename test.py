@@ -1,1 +1,2 @@
-print('Margo loves Diana')
+a = 'Диана любит Марго'
+print(a)
