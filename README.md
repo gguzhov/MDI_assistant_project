@@ -23,9 +23,10 @@ Get all significant info about the course
 
 If you want to get information about one more descipline, just push a button with its name on it
 
-If you got all the info you needed, push the stop button. Next time you want to use this bot, type /start and follow the same intructions:) 
+If you got all the info you needed, push the stop button. Next time you want to use this bot, type /start and follow the same intructions :) 
 
 
 <h3 align="center">If you still have any questions...</h3>
+
 Please contact one of the members of our team:
 <a href="https://github.com/dianamarz" target="_blank">Diana Marzaganova</a>, <a href="https://github.com/margogs" target="_blank">Margarita Gasparova</a>, <a href="https://github.com/gguzhov" target="_blank">Gennady Guzhov</a> or <a href="https://github.com/ThrPHP" target="_blank">Daniil Babaev</a>
