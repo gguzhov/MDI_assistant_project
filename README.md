@@ -9,7 +9,7 @@ The project - telegram bot 'MDI Assist' is a personal assist for MDI students. I
 
 <img src=https://github.com/dianamarz/kartinki/blob/main/Telegram_2019_Logo.svg.png width='100'> 
 
-2. Type 'MDI Assist' in the search string
+2. Type 'MDI_assist' in the search string
 
 Here is our bot:
 
