@@ -5,17 +5,17 @@ The project - telegram bot 'MDI Assist' is a personal assist for MDI students. I
 
 <h3 align="center">How do I start the bot?</h3>
 
-1. Open Telegram app
+1. Download and open Telegram app
 
 <img src=https://github.com/dianamarz/kartinki/blob/main/Telegram_2019_Logo.svg.png width='100'> 
 
-2. Type 'MDI_assist' in the search string
+2. Type 'MDIAssist_bot' in the search string
 
 Here is our bot:
 
 <img src=https://github.com/dianamarz/kartinki/blob/main/IMG_1091.jpeg width='375'>
 
-3. Push the start button
+3. Tap the start button at the bottom of the screen
 
 <img src=https://github.com/dianamarz/kartinki/blob/main/IMG_1092.jpeg width='200'>
 
@@ -23,13 +23,15 @@ Here is our bot:
 
 <h3 align="center">How do I use the bot?</h3>
 
-From the suggested list of desciplines choose the one that you need
+1. Now that you have started the bot, tap on the "/disciplines" button in bot's message (or type it manually and send the message to the bot)
 
-Get all significant info about the course 
+2. Then choose the discipline that you need from the suggested list and tap its button
 
-If you want to get information about one more descipline, just push a button with its name on it
+3. Get all significant info about the course 
 
-If you got all the info you needed, push the stop button. Next time you want to use this bot, type /start and follow the same intructions :) 
+4. If you want to get information about another descipline, just tap a button with its name on it
+
+5. If you got all the info you needed, tap the stop button. Next time you want to use this bot, tap "/start" button in the last bot's message (or type it manually) and follow the same intructions :) 
 
 
 <h3 align="center">If you still have any questions...</h3>
