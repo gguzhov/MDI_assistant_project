@@ -1,4 +1,4 @@
-<h1 align="center"> MDI_assistant_project🦸🏻‍♂️</h1>
+<h1 align="center"> MDI Assistant Project🦸🏻‍♂️</h1>
 
 
 The project - telegram bot 'MDI Assist' is a personal assist for MDI students. It is a real problem among MDI students that they do not have one website or app with all needed information about each subject. Thus, youngsters have to spend time searching for necessary course link. That is why our team has decided to help them and to develop a smart bot that will give all information about a course in a few seconds. The bot's answers include lenght of the course, lecturer & seminar professor names, their emails/telegram accounts, evaluation formula, chat link (if the course has a chat) and course link
