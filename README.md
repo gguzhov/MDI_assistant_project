@@ -5,21 +5,21 @@ The project - telegram bot 'MDI Assist' is a personal assist for MDI students. I
 
 <h3 align="center">How do I start the bot?</h3>
 
-Open Telegram app
+1. Open Telegram app
 
 <img src=https://github.com/dianamarz/kartinki/blob/main/Telegram_2019_Logo.svg.png width='100'> 
 
-Type 'MDI Assist' in the search string
+2. Type 'MDI Assist' in the search string
 
 Here is our bot:
 
 <img src=https://github.com/dianamarz/kartinki/blob/main/IMG_1091.jpeg width='375'>
 
-Push the start button
+3. Push the start button
 
-<img src=https://github.com/dianamarz/kartinki/blob/main/IMG_1092.jpeg width='375'>
+<img src=https://github.com/dianamarz/kartinki/blob/main/IMG_1092.jpeg width='200'>
 
-Congratulations! You have started the bot
+4. <strong>Congratulations! You have started the bot</strong>🎉
 
 <h3 align="center">How do I use the bot?</h3>
 
