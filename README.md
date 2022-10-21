@@ -17,7 +17,7 @@ Here is our bot:
 
 3. Tap the start button at the bottom of the screen
 
-<img src=https://github.com/dianamarz/kartinki/blob/main/IMG_2.png width='300'>
+<img src=https://github.com/dianamarz/kartinki/blob/main/IMG_1098.jpeg width='300'>
 
 4. <strong>Congratulations! You have started the bot</strong>🎉
 
