@@ -41,8 +41,7 @@ Here is our bot:
 
 5. If you got all the info you needed, tap the stop button. Next time you want to use this bot, tap "/start" button in the last bot's message (or type it manually) and follow the same intructions :) 
 
-<img src=https://github.com/dianamarz/kartinki/blob/main/IMG_7.jpeg width='375'> 
-<img src=https://github.com/dianamarz/kartinki/blob/main/IMG_8.jpeg width='375'>
+<img src=https://github.com/dianamarz/kartinki/blob/main/IMG_7.jpeg width='375'> <img src=https://github.com/dianamarz/kartinki/blob/main/IMG_8.jpeg width='300'>
 
 <h3 align="center">If you still have any questions...</h3>
 
