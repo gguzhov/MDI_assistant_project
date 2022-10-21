@@ -1,7 +1,7 @@
 <h1 align="center"> MDI_assistant_project🦸🏻‍♂️</h1>
 
 
-The project - telegram bot 'MDI Assist' is a personal assist for MDI students. It is a real problem among MDI students that they do not have one website or app with all needed information about each subject. Thus, youngsters have to spend time searching for necessar course link. That is why our team decided to help them and to develop a smart bot that will give all information about a course in a few seconds. The bot's answers include lenght of the course, lecturer & seminar professor names, their emails/tgs, evaluation formula, chat link (if the course has a chat) and course link
+The project - telegram bot 'MDI Assist' is a personal assist for MDI students. It is a real problem among MDI students that they do not have one website or app with all needed information about each subject. Thus, youngsters have to spend time searching for necessary course link. That is why our team has decided to help them and to develop a smart bot that will give all information about a course in a few seconds. The bot's answers include lenght of the course, lecturer & seminar professor names, their emails/telegram accounts, evaluation formula, chat link (if the course has a chat) and course link
 
 <h3 align="center">How do I start the bot?</h3>
 
@@ -13,11 +13,11 @@ The project - telegram bot 'MDI Assist' is a personal assist for MDI students. I
 
 Here is our bot:
 
-<img src=https://github.com/dianamarz/kartinki/blob/main/IMG_1091.jpeg width='375'>
+<img src=https://github.com/dianamarz/kartinki/blob/main/IMG_1.jpeg width='375'>
 
 3. Tap the start button at the bottom of the screen
 
-<img src=https://github.com/dianamarz/kartinki/blob/main/IMG_1092.jpeg width='200'>
+<img src=https://github.com/dianamarz/kartinki/blob/main/IMG_2.png width='200'>
 
 4. <strong>Congratulations! You have started the bot</strong>🎉
 
@@ -25,14 +25,23 @@ Here is our bot:
 
 1. Now that you have started the bot, tap on the "/disciplines" button in bot's message (or type it manually and send the message to the bot)
 
+<img src=https://github.com/dianamarz/kartinki/blob/main/IMG_3.jpeg width='375'>
+
 2. Then choose the discipline that you need from the suggested list and tap its button
+
+<img src=https://github.com/dianamarz/kartinki/blob/main/IMG_4.jpeg width='375'>
 
 3. Get all significant info about the course 
 
+<img src=https://github.com/dianamarz/kartinki/blob/main/IMG_5.jpeg width='375'>
+
 4. If you want to get information about another descipline, just tap a button with its name on it
+
+<img src=https://github.com/dianamarz/kartinki/blob/main/IMG_6.jpeg width='375'>
 
 5. If you got all the info you needed, tap the stop button. Next time you want to use this bot, tap "/start" button in the last bot's message (or type it manually) and follow the same intructions :) 
 
+<img src=https://github.com/dianamarz/kartinki/blob/main/IMG_7.jpeg width='375'>
 
 <h3 align="center">If you still have any questions...</h3>
 
