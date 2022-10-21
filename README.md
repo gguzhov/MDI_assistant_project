@@ -28,7 +28,6 @@ If you want to get information about one more descipline, just push a button wit
 If you got all the info you needed, push the stop button. Next time you want to use this bot, type /start and follow the same intructions :) 
 
 
-
 <h3 align="center">If you still have any questions...</h3>
 
 
