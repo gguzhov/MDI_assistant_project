@@ -15,4 +15,4 @@ It is really easy to use this bot. At first uou should write /start
 
 <h3 align="center">If you still have any questions...</h3>
 please contact one of the members of our team:
-<a href="https://daniilshat.ru/" target="_blank">Daniil</a>
+<a href="https://github.com/dianamarz" target="_blank">Diana Marzaganova</a>
