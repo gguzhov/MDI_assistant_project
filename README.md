@@ -14,5 +14,5 @@ It is really easy to use this bot. At first uou should write /start
 
 
 <h3 align="center">If you still have any questions...</h3>
-please contact one of the members of our team:
-<a href="https://github.com/dianamarz" target="_blank">Diana Marzaganova</a>
+Please contact one of the members of our team:
+<a href="https://github.com/dianamarz" target="_blank">Diana Marzaganova</a>, <a href="https://github.com/margogs" target="_blank">Margarita Gasparova</a> or <a href="https://github.com/gguzhov" target="_blank">Gennady Guzhov</a>
