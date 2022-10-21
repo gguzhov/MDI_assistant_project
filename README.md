@@ -13,7 +13,7 @@ Here is our bot:
 
 Push the start button
 
-Congradulations! You have started the bot
+Congratulations! You have started the bot
 
 <h3 align="center">How do I use the bot?</h3>
 
