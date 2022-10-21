@@ -11,11 +11,13 @@ Open Telegram app
 
 Type 'MDI Assist' in the search string
 
-<img src=https://github.com/dianamarz/kartinki/blob/main/IMG_1091.jpeg width='375'>
-
 Here is our bot:
 
+<img src=https://github.com/dianamarz/kartinki/blob/main/IMG_1091.jpeg width='375'>
+
 Push the start button
+
+<img src=https://github.com/dianamarz/kartinki/blob/main/IMG_1092.jpeg width='375'>
 
 Congratulations! You have started the bot
 
