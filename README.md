@@ -9,7 +9,7 @@ Open Telegram app
 
 Type 'MDI Assist' in the search string
 
-<img src=https://github.com/dianamarz/kartinki/blob/main/IMG_1091.jpeg>
+<img src=https://github.com/dianamarz/kartinki/blob/main/IMG_1091.jpeg width='375'>
 
 Here is our bot:
 
