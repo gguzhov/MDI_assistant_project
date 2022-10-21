@@ -7,9 +7,9 @@ The project - telegram bot 'MDI Assist' is a personal assist for MDI students. I
 
 Open Telegram app
 
-<img src="IMG_1091.jpeg">
-
 Type 'MDI Assist' in the search string
+
+<img src="kartinki/IMG_1091.jpeg">
 
 Here is our bot:
 
