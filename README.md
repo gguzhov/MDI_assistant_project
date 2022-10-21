@@ -17,13 +17,13 @@ Congratulations! You have started the bot
 
 <h3 align="center">How do I use the bot?</h3>
 
-From the suggested list of desciplines choose one that you need
+From the suggested list of desciplines choose the one that you need
 
 Get all significant info about the course 
 
-If you want to get information about one more descipline, pusn button with its name 
+If you want to get information about one more descipline, just push a button with its name on it
 
-If that's all that you needed, push the stop button
+If you got all the info you needed, push the stop button. Next time you want to use this bot, type /start and follow the same intructions:) 
 
 
 <h3 align="center">If you still have any questions...</h3>
