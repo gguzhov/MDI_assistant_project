@@ -17,7 +17,7 @@ Here is our bot:
 
 3. Tap the start button at the bottom of the screen
 
-<img src=https://github.com/dianamarz/kartinki/blob/main/IMG_2.png width='200'>
+<img src=https://github.com/dianamarz/kartinki/blob/main/IMG_2.png width='300'>
 
 4. <strong>Congratulations! You have started the bot</strong>🎉
 
@@ -33,11 +33,11 @@ Here is our bot:
 
 3. Get all significant info about the course 
 
-<img src=https://github.com/dianamarz/kartinki/blob/main/IMG_5.jpeg width='375'>
+<img src=https://github.com/dianamarz/kartinki/blob/main/IMG_5.jpeg width='300'>
 
 4. If you want to get information about another descipline, just tap a button with its name on it
 
-<img src=https://github.com/dianamarz/kartinki/blob/main/IMG_6.jpeg width='375'>
+<img src=https://github.com/dianamarz/kartinki/blob/main/IMG_6.jpeg width='300'>
 
 5. If you got all the info you needed, tap the stop button. Next time you want to use this bot, tap "/start" button in the last bot's message (or type it manually) and follow the same intructions :) 
 
