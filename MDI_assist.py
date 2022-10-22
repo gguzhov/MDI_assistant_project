@@ -127,7 +127,8 @@ if __name__ == "__main__":
         but6 = types.KeyboardButton("⌨️ data management in database design")
         markup.add(but5, but6)
         markup.add(stop_b)
-        bot.send_message(message.chat.id, ad_as[check(message)])
+        if message.text != "/disciplines":
+            bot.send_message(message.chat.id, ad_as[check(message)])
         bot.send_message(message.chat.id, 'Please, choose a discipline', reply_markup=markup)
 
     bot.polling(none_stop=True)
