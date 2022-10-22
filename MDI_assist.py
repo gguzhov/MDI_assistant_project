@@ -5,18 +5,20 @@ from telebot.types import ReplyKeyboardRemove
 
 def check(message):
     ans = 0
-    if message.text == "✍🏼 academic writing":
+    if message.text == "/disciplines":
         ans = 0
-    if message.text == "🖥 programming in Python":
+    if message.text == "✍🏼 academic writing":
         ans = 1
-    if message.text == "🧮 financial & organizational accounting":
+    if message.text == "🖥 programming in Python":
         ans = 2
-    if message.text == "📊 probability theory & mathematical statistics":
+    if message.text == "🧮 financial & organizational accounting":
         ans = 3
-    if message.text == "🗣 business communications":
+    if message.text == "📊 probability theory & mathematical statistics":
         ans = 4
-    if message.text == "⌨ data management in database design":
+    if message.text == "🗣 business communications":
         ans = 5
+    if message.text == "⌨ data management in database design":
+        ans = 6
     return ans
 
 
@@ -127,8 +129,7 @@ if __name__ == "__main__":
         but6 = types.KeyboardButton("⌨️ data management in database design")
         markup.add(but5, but6)
         markup.add(stop_b)
-        if message.text != "/disciplines":
-            bot.send_message(message.chat.id, ad_as[check(message)])
+        bot.send_message(message.chat.id, ad_as[check(message)])
         bot.send_message(message.chat.id, 'Please, choose a discipline', reply_markup=markup)
 
     bot.polling(none_stop=True)
