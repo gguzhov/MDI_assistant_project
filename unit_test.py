@@ -1,5 +1,5 @@
 import unittest
-from bot import check
+from MDI_assist import check
 from unittest.mock import MagicMock
 
 
@@ -31,7 +31,7 @@ class TestMain(unittest.TestCase):
         self.assertEqual(4, check(self.message))
 
     def test_check6(self):
-        self.message.text = "⌨️ data management in database design"
+        self.message.text = "⌨ data management in database design"
         self.assertEqual(5, check(self.message))
 
 
