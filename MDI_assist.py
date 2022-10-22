@@ -1,3 +1,5 @@
+from click import command
+from requests import delete
 import telebot
 from telebot import types
 from telebot.types import ReplyKeyboardRemove
