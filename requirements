@@ -1,3 +1,2 @@
-python 3.10.8
 requests
-telebot
+pyTelegramBotAPI>=4.7.1
