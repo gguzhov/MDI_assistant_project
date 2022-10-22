@@ -91,7 +91,21 @@ def button_message(message):
 def button_message(message):
     bot.send_message(message.chat.id,'Have a nice day, to return write "/start"',reply_markup=ReplyKeyboardRemove())
     
-
+def check(message):
+    ans = 0
+    if message.text=="✍🏼 academic writing":
+        ans = 0
+    if message.text=="🖥 programming in Python":
+        ans = 1
+    if message.text=="🧮 financial & organizational accounting":
+        ans = 2
+    if message.text=="📊 probability theory & mathematical statistics":
+        ans = 3
+    if message.text=="🗣 business communications":
+        ans = 4
+    if message.text=="⌨️ data management in database design":
+        ans = 5
+    return ans
 @bot.message_handler(content_types='text')
 def message_reply(message):
     
@@ -108,18 +122,6 @@ def message_reply(message):
     markup.add(but5,but6)
     markup.add(stop_b)
 
-    if message.text=="✍🏼 academic writing":
-        bot.send_message(message.chat.id,ad_as[0])
-    if message.text=="🖥️ programming in Python":
-        bot.send_message(message.chat.id,ad_as[1])
-    if message.text=="🧮 financial & organizational accounting":
-        bot.send_message(message.chat.id,ad_as[2])
-    if message.text=="📊 probability theory & mathematical statistics":
-        bot.send_message(message.chat.id,ad_as[3])
-    if message.text=="🗣️ business communications":
-        bot.send_message(message.chat.id,ad_as[4])
-    if message.text=="⌨️ data management in database design":
-        bot.send_message(message.chat.id,ad_as[5])
     
     bot.send_message(message.chat.id,'Please, choose a discipline',reply_markup=markup)
 bot.infinity_polling()
