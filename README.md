@@ -1,50 +1,68 @@
-<h1 align="center"> MDI Assistant Project🦸🏻‍♂️</h1>
+# MDI Assistant
 
+Учебный Telegram-бот для студентов программы HSE MDI. Через простое меню он собирает в одном месте основную информацию о дисциплинах: преподавателей и контакты, формулу оценки, ссылки на курс, чат и ведомость.
 
-The project - telegram bot 'MDI Assist' is a personal assist for MDI students. It is a real problem among MDI students that they do not have one website or app with all needed information about each subject. Thus, youngsters have to spend time searching for necessary course link. That is why our team has decided to help them and to develop a smart bot that will give all information about a course in a few seconds. The bot's answers include lenght of the course, lecturer & seminar professor names, their emails/telegram accounts, evaluation formula, chat link (if the course has a chat) and course link
+> **Статус:** исторический студенческий прототип с данными за 2022/2023 учебный год. Ссылки, контакты и правила оценивания могут быть неактуальны.
 
-<h3 align="center">How do I start the bot?</h3>
+## Возможности
 
-1. Download and open Telegram app
+- список дисциплин в Telegram-клавиатуре;
+- карточка курса в ответ на выбор пользователя;
+- контакты преподавателей;
+- формула итоговой оценки;
+- ссылки на LMS, чат курса и ведомость;
+- команды `/start` и `/Stop`.
 
-<img src=https://github.com/dianamarz/kartinki/blob/main/Telegram_2019_Logo.svg.png width='100'> 
+## Как пользоваться ботом
 
-2. Type 'MDIAssist_bot' in the search string
+1. Найдите `MDIAssist_bot` в Telegram и нажмите **Start**.
+2. Отправьте `/disciplines`.
+3. Выберите дисциплину на клавиатуре.
+4. Получите собранную информацию о курсе.
+5. Нажмите `/Stop`, чтобы скрыть клавиатуру.
 
-Here is our bot:
+<p align="center">
+  <img src="https://github.com/dianamarz/kartinki/blob/main/IMG_4.jpeg?raw=true" width="360" alt="Выбор дисциплины в MDI Assistant">
+  <img src="https://github.com/dianamarz/kartinki/blob/main/IMG_5.jpeg?raw=true" width="280" alt="Карточка дисциплины в MDI Assistant">
+</p>
 
-<img src=https://github.com/dianamarz/kartinki/blob/main/IMG_1.jpeg width='375'>
+## Технологии
 
-3. Tap the start button at the bottom of the screen
+- Python 3;
+- [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI);
+- long polling;
+- `unittest` для проверки выбора дисциплин.
 
-<img src=https://github.com/dianamarz/kartinki/blob/main/IMG_1098.jpeg width='300'>
+## Локальный запуск
 
-4. <strong>Congratulations! You have started the bot</strong>🎉
+```bash
+git clone https://github.com/gguzhov/MDI_assistant_project.git
+cd MDI_assistant_project
 
-<h3 align="center">How do I use the bot?</h3>
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements
+python MDI_assist.py
+```
 
-1. Now that you have started the bot, tap on the "/disciplines" button in bot's message (or type it manually and send the message to the bot)
+### Перед запуском
 
-<img src=https://github.com/dianamarz/kartinki/blob/main/IMG_3.jpeg width='375'>
+В исторической версии токен Telegram-бота находится в исходном файле. Его нужно считать скомпрометированным: отозвать через BotFather, выпустить новый и загружать его из переменной окружения, а не хранить в Git.
 
-2. Then choose the discipline that you need from the suggested list and tap its button
+## Тесты
 
-<img src=https://github.com/dianamarz/kartinki/blob/main/IMG_4.jpeg width='375'>
+```bash
+python -m unittest unit_test.py
+```
 
-3. Get all significant info about the course 
+## Структура
 
-<img src=https://github.com/dianamarz/kartinki/blob/main/IMG_5.jpeg width='300'>
+| Файл | Назначение |
+| --- | --- |
+| `MDI_assist.py` | логика бота и данные дисциплин |
+| `unit_test.py` | тесты функции выбора дисциплины |
+| `requirements` | Python-зависимости |
 
-4. If you want to get information about another descipline, just tap a button with its name on it
+## Команда проекта
 
-<img src=https://github.com/dianamarz/kartinki/blob/main/IMG_6.jpeg width='300'>
-
-5. If you got all the info you needed, tap the stop button. Next time you want to use this bot, tap "/start" button in the last bot's message (or type it manually) and follow the same intructions :) 
-
-<img src=https://github.com/dianamarz/kartinki/blob/main/IMG_7.jpeg width='375'> <img src=https://github.com/dianamarz/kartinki/blob/main/8.png width='375'>
-
-<h3 align="center">If you still have any questions...</h3>
-
-
-Please contact one of the members of our team:
-<a href="https://github.com/dianamarz" target="_blank">Diana Marzaganova</a>, <a href="https://github.com/margogs" target="_blank">Margarita Gasparova</a>, <a href="https://github.com/gguzhov" target="_blank">Gennady Guzhov</a> or <a href="https://github.com/ThrPHP" target="_blank">Daniil Babaev</a>
+[Diana Marzaganova](https://github.com/dianamarz) · [Margarita Gasparova](https://github.com/margogs) · [Gennady Guzhov](https://github.com/gguzhov) · [Daniil Babaev](https://github.com/ThrPHP)
